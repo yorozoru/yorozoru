@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dillan</h1>
+<h1 align="center">Welcome 👋, I'm Dillan!</h1>
 <h3 align="center">A fullstack new grad from Boston!</h3>
 
 - 🌱 I’m currently learning **react and typescript**
