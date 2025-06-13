@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Dillan!</h1>
 <h3 align="center">A fullstack new grad from Boston!</h3>
 
-- 🌱 I’m currently learning **react and typescript**
+- 🌱 I’m currently sharpening my **react native** skills
 
 - 👯 I’m looking to collaborate on **backend or full-stack projects**
 
